@@ -1,5 +1,14 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working on creating an XML Parser using C++
+- 🌱 I’m currently learning C++, Python, Java
+- 👯 I’m looking to collaborate on ongoing open source projects
+- 🤔 I’m looking for help with kickstarting projects
+- 💬 Ask me about Games
+- 📫 How to reach me: pings
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I am very open mindeu
+
 <!--
 **jeremyanugrah/jeremyanugrah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
